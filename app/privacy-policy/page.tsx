@@ -16,7 +16,7 @@ export default function PrivacyPage() {
         </p>
         <p className="mt-4">
           For questions or concerns, please contact us at
-          <span className="font-medium">sourovsh533@gmail.com</span>.
+          <span className="font-medium"> sourovsh533@gmail.com</span>.
         </p>
       </div>
     </main>
